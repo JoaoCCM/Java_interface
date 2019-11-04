@@ -26,7 +26,7 @@ public class Program {
         Scanner sc = new Scanner(System.in);
         SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 
-        System.out.println("Enter contract data");
+        System.out.println("Contract data");
         System.out.print("Number: ");
         int number = sc.nextInt();
         System.out.print("Date (dd/MM/yyyy): ");
